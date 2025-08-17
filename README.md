@@ -8,6 +8,15 @@ I love learning new technologies, building projects, and exploring how software 
 - 👯 I’m looking to collaborate on anything that is fun and interesting.
 - 📫 How to reach me: shirogg10@gmail.com or just send me a message on discord: micahvlr
 
+ ### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MicahXX&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicahXX&layout=compact&theme=tokyonight" height="180em" />
+
+</div>
+
 
 <!--
 **MicahXX/MicahXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
