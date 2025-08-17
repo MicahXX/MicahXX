@@ -9,17 +9,6 @@ I love learning new technologies, building projects, and exploring how software 
 - 📫 How to reach me: shirogg10@gmail.com or just send me a message on discord: micahvlr
 
 
-<div align="center">
-
-  <!-- Main stats card (bigger) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MicahXX&show_icons=true&theme=tokyonight" height="200em" />
-
-  <br/><br/>
-
-  <!-- Top languages card (smaller, below) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicahXX&layout=compact&theme=tokyonight" height="150em" />
-
-</div>
 <!--
 **MicahXX/MicahXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
