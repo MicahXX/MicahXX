@@ -4,7 +4,7 @@ I'm Micah, a 15 y/o student from Austria currently studying Software Engineering
 I love learning new technologies, building projects, and exploring how software can solve real-world problems.
 
 - 🔭 I’m currently working on some Projects like learning how to do minecraft plugins or creating websites and making discord bots.
-- 💻 Learning Java, TypeScript, HTML/CSS/JS, Python
+- 💻 Learning Java, TypeScript, HTML/CSS/JS, Python, MySQL and AWS.
 - 👯 I’m looking to collaborate on anything that is fun and interesting.
 - 📫 How to reach me: shirogg10@gmail.com or just send me a message on discord: micahvlr
 
