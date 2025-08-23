@@ -6,7 +6,7 @@ I love learning new technologies, building projects, and exploring how software 
 - 🔭 I’m currently working on some Projects like learning how to do minecraft plugins or creating websites and making discord bots.
 - 💻 Learning Java, TypeScript, HTML/CSS/JS, Python, MySQL and AWS.
 - 👯 I’m looking to collaborate on anything that is fun and interesting.
-- 📫 How to reach me: shirogg10@gmail.com or just send me a message on discord: micahvlr
+- 📫 How to reach me: shirogg10@gmail.com or just send me a message on discord: micahcode
 
  ### 📊 GitHub Stats
 
