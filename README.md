@@ -27,4 +27,6 @@
   <a href="https://github.com/MicahXX"><img alt="GitHub" src="https://img.shields.io/badge/github-MicahXX-181717?style=flat&logo=github" /></a>
 </p>
 
-System.exit(0);
+<p align="center">
+  Scroll to see my projects...
+</p>
