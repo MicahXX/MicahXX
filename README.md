@@ -23,8 +23,8 @@ I’m passionate about exploring new technologies, building projects, and discov
 
 ## Contact me
 <p align="center">
-  <a href="https://discord.com/users/"><img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" /></a>
-  <a href="mailto:shirogg10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-shirogg10%40gmail.com-D14836?style=flat&logo=gmail" /></a>
+  <a href="https://discord.gg/94xPZeD9tP"><img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" /></a>
+  <a href="https://micahcode.com"><img alt="Email" src="https://img.shields.io/badge/email-shirogg10%40gmail.com-D14836?style=flat&logo=gmail" /></a>
   <a href="https://github.com/MicahXX"><img alt="GitHub" src="https://img.shields.io/badge/github-MicahXX-181717?style=flat&logo=github" /></a>
 </p>
 
