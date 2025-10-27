@@ -10,11 +10,10 @@
 
 Heyo! — I'm Micah, a 15 y/o software engineering student from Austria (HTL). I love learning new tech, building small projects, and exploring how software can solve real-world problems. I make Minecraft plugins, websites, and Discord bots for fun.
 
-- 🔭 Currently building: Minecraft plugins, personal websites, and Discord bots
-- 💻 Working with / learning: Java, Python, HTML/CSS, JavaScript/TypeScript, MySQL, AWS
-- 👯 Open to collab: anything fun, interesting or beginner-friendly
-- 🎯 Goals: level up full-stack skills, ship hobby projects, contribute to OSS
-- 📫 Contact: shirogg10@gmail.com — Discord: micahcode
+- Currently making: Minecraft plugins, personal websites, and Discord bots
+- Working with / learning: Java, Python, HTML/CSS, JavaScript/TypeScript, MySQL, AWS
+- Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
+- Goals: Get better at this...
 
 ## Tools
 
@@ -29,10 +28,6 @@ Heyo! — I'm Micah, a 15 y/o software engineering student from Austria (HTL). I
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
-## Things I like to do
-- Minecraft plugins: Spigot/Paper Plugins and Fabric Mods
-- Personal websites: Some fzn Websites or Portfolio
-- Discord bots: Some fun Discord bots
 ## Contact me
 - Email: shirogg10@gmail.com
 - Discord: micahcode
