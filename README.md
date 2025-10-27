@@ -16,21 +16,6 @@ Heyo! — I'm Micah, a 15 y/o software engineering student from Austria (HTL). I
 - 🎯 Goals: level up full-stack skills, ship hobby projects, contribute to OSS
 - 📫 Contact: shirogg10@gmail.com — Discord: micahcode
 
-## Cool things to show
-
-<p align="center">
-  <a href="https://github.com/MicahXX">
-    <img src="https://github-readme-stats.vercel.app/api?username=MicahXX&show_icons=true&theme=tokyonight&count_private=true" height="130em" alt="Micah's GitHub stats" />
-  </a>
-  <a href="https://github.com/MicahXX">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicahXX&layout=compact&theme=tokyonight" height="130em" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicahXX&theme=tokyonight" height="130em" alt="Streak" />
-</p>
-
 ## Tools
 
 <p align="center">
