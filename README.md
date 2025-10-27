@@ -1,13 +1,4 @@
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MicahXX.MicahXX" alt="visitor badge" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/MicahXX?label=Follow&style=social" />
-  <img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" />
-  <img alt="Email" src="https://img.shields.io/badge/email-shirogg10%40gmail.com-D14836?style=flat&logo=gmail" />
-</p>
-
-# MicahCode
-
+# MicahCode <img src="https://visitor-badge.laobi.icu/badge?page_id=MicahXX.MicahXX" alt="visitor badge" /> <img alt="Followers" src="https://img.shields.io/github/followers/MicahXX?label=Follow&style=social" />
 15 y/o software engineering student (HTL) from Austria. I build Minecraft plugins, websites and Discord bots, always learning and making new projects.
 
 ---
