@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyo 👋
 
 I'm Micah, a 15 y/o student from Austria currently studying Software Engineering at an HTL.  
 I love learning new technologies, building projects, and exploring how software can solve real-world problems.
