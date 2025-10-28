@@ -27,7 +27,3 @@ I’m passionate about exploring new technologies, building projects, and discov
   <a href="https://micahcode.com"><img alt="Email" src="https://img.shields.io/badge/email-shirogg10%40gmail.com-D14836?style=flat&logo=gmail" /></a>
   <a href="https://github.com/MicahXX"><img alt="GitHub" src="https://img.shields.io/badge/github-MicahXX-181717?style=flat&logo=github" /></a>
 </p>
-
-<p align="center">
-  Scroll to see my projects...
-</p>
