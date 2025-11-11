@@ -1,4 +1,4 @@
-# MicahCode <a href="https://micahcode.com" target="_blank" rel="noopener noreferrer"><img alt="Visit micahcode.com" src="https://img.shields.io/badge/Visit%20Site-micahcode.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=MicahXX.MicahXX" alt="visitor badge" /> <img alt="Followers" src="https://img.shields.io/github/followers/MicahXX?label=Follow&style=flat" />
+# MicahCode <a href="https://micahcode.com" target="_blank" rel="noopener noreferrer"><img alt="Visit micahcode.com" src="https://img.shields.io/badge/Visit%20Site-micahcode.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=MicahXX.MicahXX" alt="visitor badge" />
 Heyo! I'm a 15-year-old student from Austria, currently studying Software Engineering at an HTL (Higher Technical School).
 I’m keen about exploring new technologies, building projects, and discovering how software can solve real world problems.
 
