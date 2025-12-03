@@ -5,14 +5,14 @@ I’m keen about exploring new technologies, building projects, and discovering 
 
 ---
 
-- Currently making: Minecraft plugins, personal websites, and Discord bots!
-- Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
-- Goals: Get better at this...
-
-  <p align="center">
+<p align="center">
   <img src="https://github.com/MicahXX/MicahXX/blob/main/github-user-contribution.svg" alt="Snake animation of my contributions" />
   <br>
 </p>
+
+- Currently making: Minecraft plugins, personal websites, and Discord bots!
+- Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
+- Goals: Get better at this...
 
 ## Tools
 
