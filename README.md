@@ -14,7 +14,7 @@ I’m keen about exploring new technologies, building projects, and discovering 
 - Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
 - Goals for 2026: Solve 100 problems on LeetCode, Improve my knowledge in general technical topics and have fun.
 
-## Tools
+## Tools & Languages
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
