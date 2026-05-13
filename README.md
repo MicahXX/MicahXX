@@ -16,7 +16,7 @@ I’m keen about exploring new technologies, building projects, and discovering 
 
 ## Tools & Languages
 
-<p align="center">
+<p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@ I’m keen about exploring new technologies, building projects, and discovering 
 </p>
 
 ## Contact me
-<p align="center">
+<p align="left">
   <a href="https://discord.gg/94xPZeD9tP"><img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" /></a>
   <a href="mailto:shirogg10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-shirogg10%40gmail.com-D14836?style=flat&logo=gmail" /></a>
   <a href="https://github.com/MicahXX"><img alt="GitHub" src="https://img.shields.io/badge/github-MicahXX-181717?style=flat&logo=github" /></a>
