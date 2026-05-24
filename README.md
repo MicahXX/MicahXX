@@ -1,6 +1,6 @@
 # MicahCode <a href="https://micahcode.com" target="_blank" rel="noopener noreferrer"><img alt="Visit micahcode.com" src="https://img.shields.io/badge/Visit%20Site-micahcode.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a>
 
-Heyo! I'm a 15-year-old student from Austria, currently studying Software Engineering at an HTL (Higher Technical School).  
+Heyo! I'm a 16-year-old student from Austria, currently studying Software Engineering at an HTL (Higher Technical School).  
 I’m keen about exploring new technologies, building projects, and discovering how software can solve real world problems.
 
 ---
