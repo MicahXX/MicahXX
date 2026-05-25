@@ -6,7 +6,7 @@ I’m keen about exploring new technologies, building projects, and discovering 
 ---
 
 <p align="center">
-  <img src="https://github.com/MicahXX/MicahXX/blob/main/github-user-contribution.svg" alt="Snake animation of my contributions" />
+  <img src="github-user-contribution(1).svg" />
   <br>
 </p>
 
