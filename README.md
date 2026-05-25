@@ -10,7 +10,7 @@ I’m keen about exploring new technologies, building projects, and discovering 
   <br>
 </p>
 
-- Currently making: Minecraft plugins, personal websites, and Discord bots!
+- Currently making: Minecraft plugins/mods, personal websites, and Discord bots (less than before)!
 - Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
 - Goals for 2026: Solve 100 problems on LeetCode, Improve my knowledge in general technical topics and have fun.
 
