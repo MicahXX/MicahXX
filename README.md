@@ -1,6 +1,6 @@
 # micahcode <a href="https://micahcode.com" target="_blank" rel="noopener noreferrer"><img alt="Visit micahcode.com" src="https://img.shields.io/badge/Visit%20Site-micahcode.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a>
 
-Heyo! I'm a 16-year-old student from Austria, currently studying Software Engineering at an HTL (Higher Technical School).
+Heyo! I'm a 16-year-old student from Austria, currently attending an HTL (Higher Technical School).
 I like to make plugins/mods for Minecraft and some other small stuff where I can see the results right away.
 
 <p align="center">
@@ -10,7 +10,7 @@ I like to make plugins/mods for Minecraft and some other small stuff where I can
 
 - Currently making: Minecraft plugins/mods, personal websites and smaller projects like my calc in c#!
 - Would love to work with whoever wants my help in Minecraft Mods, Discord bots, Websites, etc.
-- Goals for 2026: Solve 100 problems on LeetCode, Improve my knowledge in general technical topics and have fun.
+- Goals for 2026: Solve 100 problems on LeetCode (currently on like 5/100), Improve my knowledge in general technical topics and have fun.
 
 ## Tools & Languages
 
@@ -29,3 +29,8 @@ I like to make plugins/mods for Minecraft and some other small stuff where I can
   <a href="https://discord.gg/94xPZeD9tP"><img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" /></a>
   <a href="mailto:micahcodegg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-micahcodegg%40gmail.com-D14836?style=flat&logo=gmail" /></a>
 </p>
+
+---
+
+On AI usage: I mostly use AI for anything design-related (UI, etc.), since that's not my strong suit.
+I try to write the actual logic myself, but I still use it as a helper on occasion.
