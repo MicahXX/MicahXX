@@ -27,7 +27,7 @@ I like to make plugins/mods for Minecraft and some other small stuff where I can
 ## Contact me
 <p align="left">
   <a href="https://discord.gg/94xPZeD9tP"><img alt="Discord" src="https://img.shields.io/badge/discord-micahcode-5865F2?style=flat&logo=discord" /></a>
-  <a href="mailto:micahcodegg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-micahcodegg%40gmail.com-D14836?style=flat&logo=gmail" /></a>
+  <a href="mailto:micahcodegg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-micahcodedev%40gmail.com-D14836?style=flat&logo=gmail" /></a>
 </p>
 
 ---
